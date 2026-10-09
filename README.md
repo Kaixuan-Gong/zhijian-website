@@ -1,6 +1,6 @@
-# 知间官网
+# 关系之间官网
 
-知间 iOS 应用的中文产品介绍页。使用纯 HTML、CSS 与少量 JavaScript 构建，可部署到 GitHub Pages 或任意静态托管服务。
+关系之间 iOS 应用的中文产品介绍页。使用纯 HTML、CSS 与少量 JavaScript 构建，可部署到 GitHub Pages 或任意静态托管服务。
 
 ## 本地预览
 
