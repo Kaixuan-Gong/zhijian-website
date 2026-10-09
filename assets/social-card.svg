@@ -7,7 +7,7 @@
   <circle cx="950" cy="315" r="51" fill="none" stroke="#7765ac" stroke-width="2"/>
   <circle cx="950" cy="315" r="35" fill="none" stroke="#b1a5cc" stroke-width="2"/>
   <path d="M930 330c8-17 16-25 25-25 7 0 14 5 21 14" stroke="#65528f" stroke-width="3" stroke-linecap="round" fill="none"/>
-  <text x="118" y="188" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif" font-size="28" letter-spacing="10" fill="#65528f">知间</text>
+  <text x="118" y="188" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif" font-size="28" letter-spacing="10" fill="#65528f">关系之间</text>
   <text x="112" y="332" font-family="'Songti SC',serif" font-size="82" fill="#252429">让关系</text>
   <text x="112" y="437" font-family="'Songti SC',serif" font-size="82" fill="#7765ac">有迹可循。</text>
   <path d="M115 491h67" stroke="#7765ac" stroke-width="2"/>
